@@ -1,12 +1,14 @@
 Byju's Front End Developer Challenge
 
-#### Live Preview:
+#### Live Preview: https://courseify-app.herokuapp.com/
 
 ### Features
 
 - User can search by Provider Name
 - User can search by Subject Name
 - Responsive
+- Displays the total number of courses found
+- Display the total number of courses found based on user search
 
 ### `npm install`
 
