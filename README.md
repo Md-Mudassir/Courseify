@@ -30,4 +30,4 @@ Your app is ready to be deployed!
 
 ### Screenshots
 
-![]()
+![](https://github.com/Md-Mudassir/Courseify/blob/master/public/coursify.PNG)
