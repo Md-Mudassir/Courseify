@@ -1,6 +1,6 @@
 Byju's Front End Developer Challenge
 
-#### Live Preview: https://courseify-app.herokuapp.com/
+#### Live Preview: https://courseify.netlify.com/
 
 ### Features
 
